@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menuItems menuItems="菜单栏" name="menubar">
+  <menuItem id="1" name="filemenubar" caption="文件(F)">
+      <button id="" name="openmenu" imagePath="" caption="打开(O)" toolTip="打开一个文件"  shortcut="Ctrl+O" visible="True" enable="True" command="MenuOpenCmd"></button>
+	  <button id="" name="savemenu" imagePath="" caption="另存为(A)" toolTip="文件另存为"  shortcut="Ctrl+S" visible="True" enable="True" command="MenuSaveCmd"></button>
+      <!--<button id="" name="newfile" imagePath="" caption="新建(N)" toolTip="新建文件"  shortcut="Ctrl+N" visible="True" enable="True" command="MenuNewCmd"></button>-->
+      <!--<button id="" name="openRemoteFile" imagePath="" caption="打开远程数据(R)" toolTip="打开远程数据"  shortcut="Ctrl+Shift+O" visible="True" enable="True" command="MenuOpenRemoteFileCmd"></button>-->
+      <button id="" name="exportData" imagePath="" caption="导出数据(E)" toolTip="导出数据"  shortcut="Ctrl+E" visible="False" enable="True" command="MenuExportDataCmd"></button>
+      <button id="" caption="移除所有数据" name="removeall"  toolTip="清除全部数据"  shortcut="" visible="True" enable="True" command="ToolRemoveAllCmd"></button>
+      <button id="" name="close" imagePath="" caption="关闭(W)" toolTip="关闭"  shortcut="Ctrl+W" visible="False" enable="True" command="MenuCloseCmd"></button>
+      <button id="" name="quit" imagePath="" caption="退出(Q)" toolTip="退出"  shortcut="Ctrl+Q" visible="True" enable="True" command="MenuQuitCmd"></button>
+	</menuItem>
+
+    <!--<menuItem id="2" name="editmenubar" caption="编辑(E)">-->
+
+    <!--</menuItem>-->
+
+    <menuItem id="3" name="convertmenubar" caption="格式转换(C)">
+
+        <button id="" name="nc_to_hdf" imagePath="" caption="netCDF转化HDF格式(1)" toolTip="netCDF转化HDF格式"  shortcut="Ctrl+Shift+1" visible="True" enable="True" command="MenuNc_to_hdfCmd"></button>
+        <button id="" name="hdf_to_nc" imagePath="" caption="HDF转化netCDF格式(2)" toolTip="DF转化netCDF格式"  shortcut="Ctrl+Shift+2" visible="True" enable="True" command="MenuHdf_to_ncCmd"></button>
+        <button id="" name="nc_to_m4" imagePath="" caption="netCDF转化Micaps4格式(3)" toolTip="netCDF转化Micaps4格式"  shortcut="Ctrl+Shift+3" visible="True" enable="True" command="MenuNc_to_m4Cmd"></button>
+        <button id="" name="m4_to_nc" imagePath="" caption="Micaps4转化netCDF格式(4)" toolTip="Micaps4转化netCDF格式"  shortcut="Ctrl+Shift+4" visible="True" enable="True" command="MenuM4_to_ncCmd"></button>
+        <button id="" name="hdf_to_m4" imagePath="" caption="HDF转化Micaps4格式(5)" toolTip="HDF转化Micaps4格式"  shortcut="Ctrl+Shift+5" visible="True" enable="True" command="MenuHdf_to_m4Cmd"></button>
+        <button id="" name="m4_to_hdf" imagePath="" caption="Micaps4转化HDF格式(6)" toolTip="Micaps4转化HDF格式"  shortcut="Ctrl+Shift+6" visible="True" enable="True" command="MenuM4_to_hdfCmd"></button>
+        <button id="" name="grib_to_nc" imagePath="" caption="GRIB转化netCDF格式(7)" toolTip="GRIB转化netCDF格式"  shortcut="Ctrl+Shift+7" visible="True" enable="False" command="MenuGrib_to_ncCmd"></button>
+        <button id="" name="grib_to_hdf" imagePath="" caption="GRIB转化HDF格式(8)" toolTip="GRIB转化HDF格式"  shortcut="Ctrl+Shift+8" visible="True" enable="False" command="MenuGrib_to_hdfCmd"></button>
+        <button id="" name="grib_to_m4" imagePath="" caption="GRIB转化Micaps4格式(9)" toolTip="GRIB转化Micaps4格式"  shortcut="Ctrl+Shift+9" visible="True" enable="False" command="MenuGrib_to_m4Cmd"></button>
+
+    </menuItem>
+    <!--<menuItem id="4" name="toolsmenubar" caption="工具(E)">-->
+
+    <!--</menuItem>-->
+    <!--<menuItem id="5" name="viewmenubar" caption="视图(V)">-->
+
+    <!--</menuItem>-->
+    <menuItem id="6" name="helpmenubar" caption="帮助(H)">
+    <button id="" name="helpDoc" imagePath="" caption="帮助文档" toolTip="查看帮助文档"  shortcut="" visible="True" enable="False" command="help_doc_cmd"></button>
+    </menuItem>
+
+
+</menuItems>

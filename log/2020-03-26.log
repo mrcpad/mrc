@@ -1,0 +1,75 @@
+2020-03-26 11:12:09,480 - mylog - INFO - Root element : 菜单栏
+2020-03-26 11:12:09,552 - mylog - INFO - <module.mrc_command.menu.openfilecmd.OpenFileCmd object at 0x0000026494AA5828>
+2020-03-26 11:12:09,553 - mylog - INFO - <module.mrc_command.menu.Savefilecmd.SaveFileCmd object at 0x0000026494AAAD38>
+2020-03-26 11:12:09,554 - mylog - INFO - <module.mrc_command.menu.ExportDataCmd.ExportDataCmd object at 0x0000026494B23A08>
+2020-03-26 11:12:09,555 - mylog - INFO - <module.mrc_command.tool.removecmd.RemoveCmd object at 0x0000026494B2C148>
+2020-03-26 11:12:09,556 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x0000026494B32A48>
+2020-03-26 11:12:09,557 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x0000026494B3C408>
+2020-03-26 11:12:09,560 - mylog - INFO - <module.mrc_command.menu.convert.nc2hdf.NC2HDFCmd object at 0x0000026494B718C8>
+2020-03-26 11:12:09,561 - mylog - INFO - <module.mrc_command.menu.convert.hdf2nc.HDF2NCCmd object at 0x0000026494B3C1C8>
+2020-03-26 11:12:09,562 - mylog - INFO - <module.mrc_command.menu.convert.nc2m4.NC2M4Cmd object at 0x0000026494B3C308>
+2020-03-26 11:12:09,563 - mylog - INFO - <module.mrc_command.menu.convert.m42nc.M42NCCmd object at 0x00000264928A9948>
+2020-03-26 11:12:09,564 - mylog - INFO - <module.mrc_command.menu.convert.hdf2m4.HDF2M4Cmd object at 0x0000026494BA8988>
+2020-03-26 11:12:09,565 - mylog - INFO - <module.mrc_command.menu.convert.m42hdf.M42HDFCmd object at 0x0000026494BB31C8>
+2020-03-26 11:12:09,566 - mylog - INFO - <module.mrc_command.menu.convert.grib2nc.GRIB2NCCmd object at 0x0000026494BB8988>
+2020-03-26 11:12:09,566 - mylog - INFO - <module.mrc_command.menu.convert.grib2hdf.GRIB2HDFCmd object at 0x0000026494BC1348>
+2020-03-26 11:12:09,567 - mylog - INFO - <module.mrc_command.menu.convert.grib2m4.GRIB2M4Cmd object at 0x0000026494BC7A08>
+2020-03-26 11:12:09,568 - mylog - INFO - <module.mrc_command.menu.convert.grib2grads.GRIB2GRADSCmd object at 0x0000026494BD2288>
+2020-03-26 11:12:09,569 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x0000026494B3C3C8>
+2020-03-26 11:12:09,569 - mylog - INFO - Root element : 菜单栏   OK
+2020-03-26 11:12:09,570 - mylog - INFO - Root element : 工具栏
+2020-03-26 11:12:09,571 - mylog - INFO - <module.mrc_command.tool.toolopenfilecmd.ToolOpenFileCmd object at 0x0000026494BC8678>
+2020-03-26 11:12:09,572 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x0000026494BF2D48>
+2020-03-26 11:12:09,573 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x0000026494BFB5C8>
+2020-03-26 11:12:09,574 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x0000026494C01C08>
+2020-03-26 11:12:09,575 - mylog - INFO - Root element : 工具栏   OK
+2020-03-26 16:43:00,363 - mylog - INFO - Root element : 菜单栏
+2020-03-26 16:43:00,437 - mylog - INFO - <module.mrc_command.menu.openfilecmd.OpenFileCmd object at 0x00000175EE4A5828>
+2020-03-26 16:43:00,439 - mylog - INFO - <module.mrc_command.menu.Savefilecmd.SaveFileCmd object at 0x00000175EE4A8D38>
+2020-03-26 16:43:00,440 - mylog - INFO - <module.mrc_command.menu.ExportDataCmd.ExportDataCmd object at 0x00000175EE518608>
+2020-03-26 16:43:00,441 - mylog - INFO - <module.mrc_command.tool.removecmd.RemoveCmd object at 0x00000175EE52C208>
+2020-03-26 16:43:00,441 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x00000175EE533B08>
+2020-03-26 16:43:00,442 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x00000175EE53D488>
+2020-03-26 16:43:00,446 - mylog - INFO - <module.mrc_command.menu.convert.nc2hdf.NC2HDFCmd object at 0x00000175EE572948>
+2020-03-26 16:43:00,447 - mylog - INFO - <module.mrc_command.menu.convert.hdf2nc.HDF2NCCmd object at 0x00000175EE5933C8>
+2020-03-26 16:43:00,447 - mylog - INFO - <module.mrc_command.menu.convert.nc2m4.NC2M4Cmd object at 0x00000175EE53D148>
+2020-03-26 16:43:00,448 - mylog - INFO - <module.mrc_command.menu.convert.m42nc.M42NCCmd object at 0x00000175EE590188>
+2020-03-26 16:43:00,449 - mylog - INFO - <module.mrc_command.menu.convert.hdf2m4.HDF2M4Cmd object at 0x00000175EC1FF6C8>
+2020-03-26 16:43:00,450 - mylog - INFO - <module.mrc_command.menu.convert.m42hdf.M42HDFCmd object at 0x00000175EE5B3188>
+2020-03-26 16:43:00,451 - mylog - INFO - <module.mrc_command.menu.convert.grib2nc.GRIB2NCCmd object at 0x00000175EE587DC8>
+2020-03-26 16:43:00,452 - mylog - INFO - <module.mrc_command.menu.convert.grib2hdf.GRIB2HDFCmd object at 0x00000175EC1FFE88>
+2020-03-26 16:43:00,453 - mylog - INFO - <module.mrc_command.menu.convert.grib2m4.GRIB2M4Cmd object at 0x00000175EE587D88>
+2020-03-26 16:43:00,454 - mylog - INFO - <module.mrc_command.menu.convert.grib2grads.GRIB2GRADSCmd object at 0x00000175EE5D21C8>
+2020-03-26 16:43:00,455 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x00000175EE53D448>
+2020-03-26 16:43:00,455 - mylog - INFO - Root element : 菜单栏   OK
+2020-03-26 16:43:00,455 - mylog - INFO - Root element : 工具栏
+2020-03-26 16:43:00,457 - mylog - INFO - <module.mrc_command.tool.toolopenfilecmd.ToolOpenFileCmd object at 0x00000175EE5C8678>
+2020-03-26 16:43:00,458 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x00000175EE5F2B88>
+2020-03-26 16:43:00,459 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x00000175EE5FB3C8>
+2020-03-26 16:43:00,460 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x00000175EE601A08>
+2020-03-26 16:43:00,461 - mylog - INFO - Root element : 工具栏   OK
+2020-03-26 16:44:05,646 - mylog - INFO - Root element : 菜单栏
+2020-03-26 16:44:05,726 - mylog - INFO - <module.mrc_command.menu.openfilecmd.OpenFileCmd object at 0x000001AF7F2C5828>
+2020-03-26 16:44:05,727 - mylog - INFO - <module.mrc_command.menu.Savefilecmd.SaveFileCmd object at 0x000001AF7F2CAD38>
+2020-03-26 16:44:05,728 - mylog - INFO - <module.mrc_command.menu.ExportDataCmd.ExportDataCmd object at 0x000001AF7F344A08>
+2020-03-26 16:44:05,730 - mylog - INFO - <module.mrc_command.tool.removecmd.RemoveCmd object at 0x000001AF7F34D188>
+2020-03-26 16:44:05,731 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x000001AF7F353A88>
+2020-03-26 16:44:05,732 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x000001AF7F35D3C8>
+2020-03-26 16:44:05,736 - mylog - INFO - <module.mrc_command.menu.convert.nc2hdf.NC2HDFCmd object at 0x000001AF7F392888>
+2020-03-26 16:44:05,736 - mylog - INFO - <module.mrc_command.menu.convert.hdf2nc.HDF2NCCmd object at 0x000001AF7F3B3408>
+2020-03-26 16:44:05,737 - mylog - INFO - <module.mrc_command.menu.convert.nc2m4.NC2M4Cmd object at 0x000001AF7F2FF0C8>
+2020-03-26 16:44:05,738 - mylog - INFO - <module.mrc_command.menu.convert.m42nc.M42NCCmd object at 0x000001AF7F3B0148>
+2020-03-26 16:44:05,739 - mylog - INFO - <module.mrc_command.menu.convert.hdf2m4.HDF2M4Cmd object at 0x000001AF7F35D1C8>
+2020-03-26 16:44:05,740 - mylog - INFO - <module.mrc_command.menu.convert.m42hdf.M42HDFCmd object at 0x000001AF7F3D3188>
+2020-03-26 16:44:05,741 - mylog - INFO - <module.mrc_command.menu.convert.grib2nc.GRIB2NCCmd object at 0x000001AF7F35D2C8>
+2020-03-26 16:44:05,742 - mylog - INFO - <module.mrc_command.menu.convert.grib2hdf.GRIB2HDFCmd object at 0x000001AF7F3E1188>
+2020-03-26 16:44:05,743 - mylog - INFO - <module.mrc_command.menu.convert.grib2m4.GRIB2M4Cmd object at 0x000001AF7F3E7988>
+2020-03-26 16:44:05,744 - mylog - INFO - <module.mrc_command.menu.convert.grib2grads.GRIB2GRADSCmd object at 0x000001AF7F3F2208>
+2020-03-26 16:44:05,744 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x000001AF7F35D388>
+2020-03-26 16:44:05,745 - mylog - INFO - Root element : 菜单栏   OK
+2020-03-26 16:44:05,746 - mylog - INFO - Root element : 工具栏
+2020-03-26 16:44:05,748 - mylog - INFO - <module.mrc_command.tool.toolopenfilecmd.ToolOpenFileCmd object at 0x000001AF7F3E8678>
+2020-03-26 16:44:05,749 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x000001AF7F412C48>
+2020-03-26 16:44:05,750 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x000001AF7F41B448>
+2020-03-26 16:44:05,751 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x000001AF7F421A88>
+2020-03-26 16:44:05,752 - mylog - INFO - Root element : 工具栏   OK

@@ -1,0 +1,25 @@
+2021-02-08 15:34:42,028 - mylog - INFO - Root element : 菜单栏
+2021-02-08 15:34:42,097 - mylog - INFO - <module.mrc_command.menu.openfilecmd.OpenFileCmd object at 0x000002A9050A5288>
+2021-02-08 15:34:42,098 - mylog - INFO - <module.mrc_command.menu.Savefilecmd.SaveFileCmd object at 0x000002A9050AA5E8>
+2021-02-08 15:34:42,099 - mylog - INFO - <module.mrc_command.menu.ExportDataCmd.ExportDataCmd object at 0x000002A905120E88>
+2021-02-08 15:34:42,100 - mylog - INFO - <module.mrc_command.tool.removecmd.RemoveCmd object at 0x000002A905129588>
+2021-02-08 15:34:42,101 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x000002A905133088>
+2021-02-08 15:34:42,102 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x000002A905133048>
+2021-02-08 15:34:42,105 - mylog - INFO - <module.mrc_command.menu.convert.nc2hdf.NC2HDFCmd object at 0x000002A90513FD48>
+2021-02-08 15:34:42,106 - mylog - INFO - <module.mrc_command.menu.convert.hdf2nc.HDF2NCCmd object at 0x000002A9051727C8>
+2021-02-08 15:34:42,107 - mylog - INFO - <module.mrc_command.menu.convert.nc2m4.NC2M4Cmd object at 0x000002A905177F08>
+2021-02-08 15:34:42,108 - mylog - INFO - <module.mrc_command.menu.convert.m42nc.M42NCCmd object at 0x000002A905182748>
+2021-02-08 15:34:42,109 - mylog - INFO - <module.mrc_command.menu.convert.hdf2m4.HDF2M4Cmd object at 0x000002A905187F08>
+2021-02-08 15:34:42,110 - mylog - INFO - <module.mrc_command.menu.convert.m42hdf.M42HDFCmd object at 0x000002A905192748>
+2021-02-08 15:34:42,111 - mylog - INFO - <module.mrc_command.menu.convert.grib2nc.GRIB2NCCmd object at 0x000002A90519A1C8>
+2021-02-08 15:34:42,112 - mylog - INFO - <module.mrc_command.menu.convert.grib2hdf.GRIB2HDFCmd object at 0x000002A90519F748>
+2021-02-08 15:34:42,112 - mylog - INFO - <module.mrc_command.menu.convert.grib2m4.GRIB2M4Cmd object at 0x000002A9051A5F08>
+2021-02-08 15:34:42,113 - mylog - INFO - <module.mrc_command.menu.convert.grib2grads.GRIB2GRADSCmd object at 0x000002A902DDD348>
+2021-02-08 15:34:42,114 - mylog - INFO - <module.mrc_command.menu.quitcmd.QuitCmd object at 0x000002A90513A988>
+2021-02-08 15:34:42,114 - mylog - INFO - Root element : 菜单栏   OK
+2021-02-08 15:34:42,115 - mylog - INFO - Root element : 工具栏
+2021-02-08 15:34:42,116 - mylog - INFO - <module.mrc_command.tool.toolopenfilecmd.ToolOpenFileCmd object at 0x000002A90518FDC8>
+2021-02-08 15:34:42,117 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x000002A9051D3208>
+2021-02-08 15:34:42,118 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x000002A9051DCA48>
+2021-02-08 15:34:42,119 - mylog - INFO - <module.mrc_command.tool.convertcmd.ConvertCmd object at 0x000002A9051E20C8>
+2021-02-08 15:34:42,119 - mylog - INFO - Root element : 工具栏   OK

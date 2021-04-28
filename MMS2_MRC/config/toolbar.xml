@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbars toolbars="工具栏" name= "toolbars">
+  <toolbar id =""  caption="基本" name="baseToolBar">
+    <button id="" caption="打开" name="toolOpenFile" iconPath="openFile.png" toolTip="打开一个文件"  shortcut="" visible="True" enable="true" command="ToolOpenFileCmd"></button>
+    <!--<button id="" caption="格式转换" name="toolConvert" iconPath="convert.png" toolTip="格式转换"  shortcut="" visible="True" enable="True" command="ToolConvertCmd"></button>-->
+    <button id="" caption="nc" name="toolConvert" iconPath="netCDF.png" toolTip="转换为NetCDF格式"  shortcut="" visible="True" enable="True" command="ToolNcCmd"></button>
+    <button id="" caption="hdf" name="toolConvert" iconPath="hdf.png" toolTip="转换为HDF格式"  shortcut="" visible="True" enable="True" command="ToolHdfCmd"></button>
+    <button id="" caption="m4" name="toolConvert" iconPath="m4.png" toolTip="转换为Micaps第4类格式"  shortcut="" visible="True" enable="True" command="ToolM4Cmd"></button>
+    <!--<button id="" caption="grib" name="toolConvert" iconPath="grib2.png" toolTip="转换为GRIB2格式"  shortcut="" visible="True" enable="True" command="ToolGribCmd"></button>-->
+    <!--<button id="" caption="remove" name="remove" iconPath="remove.png" toolTip="数据清除"  shortcut="" visible="True" enable="True" command="ToolRemoveCmd"></button>-->
+    <!--<button id="" caption="removeall" name="removeall" iconPath="removeall.png" toolTip="清除全部数据"  shortcut="" visible="True" enable="True" command="ToolRemoveAllCmd"></button>-->
+  </toolbar>
+</toolbars>

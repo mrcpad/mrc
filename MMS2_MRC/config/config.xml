@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.org/springpython/schema/objects/1.1"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/springpython/schema/objects/1.1
+               http://springpython.webfactional.com/schema/context/spring-python-context-1.1.xsd">
+
+  <object id="MenuOpenCmd" class="module.mrc_command.menu.openfilecmd.OpenFileCmd" lazy-init="True"></object>
+ <object id="MenuSaveCmd" class="module.mrc_command.menu.Savefilecmd.SaveFileCmd" lazy-init="True"></object>
+  <object id="MenuNewCmd" class="module.mrc_command.menu.newFilecmd.NewFileCmd" lazy-init="True"></object>
+  <object id="MenuOpenRemoteFileCmd" class="module.mrc_command.menu.OpenRemoteFileCmd.OpenRemoteFileCmd" lazy-init="True"></object>
+  <object id="MenuExportDataCmd" class="module.mrc_command.menu.ExportDataCmd.ExportDataCmd" lazy-init="True"></object>
+  <object id="MenuCloseCmd" class="module.mrc_command.menu.quitcmd.QuitCmd" lazy-init="True"></object>
+  <object id="MenuQuitCmd" class="module.mrc_command.menu.quitcmd.QuitCmd" lazy-init="True"></object>
+
+  <object id="help_doc_cmd" class="module.mrc_command.menu.quitcmd.QuitCmd" lazy-init="True"></object>
+
+
+
+
+
+  <object id="MenuNc_to_hdfCmd" class="module.mrc_command.menu.convert.nc2hdf.NC2HDFCmd" lazy-init="True"></object>
+  <object id="MenuHdf_to_ncCmd" class="module.mrc_command.menu.convert.hdf2nc.HDF2NCCmd" lazy-init="True"></object>
+  <object id="MenuNc_to_m4Cmd" class="module.mrc_command.menu.convert.nc2m4.NC2M4Cmd" lazy-init="True"></object>
+  <object id="MenuM4_to_ncCmd" class="module.mrc_command.menu.convert.m42nc.M42NCCmd" lazy-init="True"></object>
+  <object id="MenuHdf_to_m4Cmd" class="module.mrc_command.menu.convert.hdf2m4.HDF2M4Cmd" lazy-init="True"></object>
+  <object id="MenuM4_to_hdfCmd" class="module.mrc_command.menu.convert.m42hdf.M42HDFCmd" lazy-init="True"></object>
+  <object id="MenuGrib_to_ncCmd" class="module.mrc_command.menu.convertcmd.ConvertCmd" lazy-init="True"></object>
+  <object id="MenuGrib_to_hdfCmd" class="module.mrc_command.menu.convertcmd.ConvertCmd" lazy-init="True"></object>
+  <object id="MenuGrib_to_m4Cmd" class="module.mrc_command.menu.convertcmd.ConvertCmd" lazy-init="True"></object>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <object id="ToolOpenFileCmd" class="module.mrc_command.tool.toolopenfilecmd.ToolOpenFileCmd" lazy-init="True"></object>
+  <object id="ToolConvertCmd" class="module.mrc_command.tool.toolconvertcmd.ToolConvertCmd" lazy-init="True"></object>
+  <object id="ToolNcCmd" class="module.mrc_command.tool.convertcmd.ConvertCmd" lazy-init="True"></object>
+  <object id="ToolHdfCmd" class="module.mrc_command.tool.convertcmd.ConvertCmd" lazy-init="True"></object>
+  <object id="ToolM4Cmd" class="module.mrc_command.tool.convertcmd.ConvertCmd" lazy-init="True"></object>
+  <object id="ToolGribCmd" class="module.mrc_command.tool.convertcmd.ConvertCmd" lazy-init="True"></object>
+  <object id="ToolRemoveCmd" class="module.mrc_command.tool.removecmd.RemoveCmd" lazy-init="True"></object>
+  <object id="ToolRemoveAllCmd" class="module.mrc_command.tool.removecmd.RemoveCmd" lazy-init="True"></object>
+
+
+
+</objects>

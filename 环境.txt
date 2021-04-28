@@ -1,0 +1,10 @@
+1.numpy
+2.netCDF4
+3.matplotlib
+4.pandas
+5.PyInstaller
+6.PyQt5
+7.pyproj
+8.wrapt
+9.xarray
+10.xlrd

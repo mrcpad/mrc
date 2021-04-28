@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbars>
+  <toolbar id ="" name= "地图工具">
+    <button id="" caption="多点测距" imagePath=".\config\toolbox\菜单图标\地图工具\多点测距.png" command="MeasureLengthCmd"></button>
+    <button id="" caption="局部放大" imagePath=".\config\toolbox\菜单图标\地图工具\放大.png" command="MapZoomInCmd"></button>
+    <button id="" caption="局部缩小" imagePath=".\config\toolbox\菜单图标\地图工具\缩小.png" command="MapZoomOutCmd"></button>
+    <button id="" caption="漫游" imagePath=".\config\toolbox\菜单图标\地图工具\漫游.png" command="MapPanCmd"></button>
+    <button id="" caption="恢复" imagePath=".\config\toolbox\菜单图标\地图工具\恢复.png" command="MapResetCommand"></button>
+    <button id="" caption="删除图形" imagePath=".\config\toolbox\菜单图标\地图工具\删除图形.png" command="MapDelElementCmd"></button>
+  </toolbar>
+  <toolbar id="" name="通用工具">
+    <button id="" caption="地图截图" imagePath=".\config\toolbox\菜单图标\通用工具\屏幕截图.png" command="MapCaptionToolConmmand"></button>
+    <button id="" caption="画矩形" imagePath=".\config\toolbox\菜单图标\通用工具\画矩形.png" command="DrawEnvCmd"></button>
+    <button id="" caption="画圆" imagePath=".\config\toolbox\菜单图标\通用工具\画圆形.png" command="DrawCircleCmd"></button>
+    <button id="" caption="画折线" imagePath=".\config\toolbox\菜单图标\通用工具\画折线.png" command="DrawPolylineCmd"></button>
+    <button id="" caption="文字编辑" imagePath=".\config\toolbox\菜单图标\通用工具\文字编辑.png" command="DrawTextCmd"></button>
+    <button id="" caption="画直线" imagePath=".\config\toolbox\菜单图标\通用工具\画直线.png" command="MapDrawLine"></button>
+    <button id="" caption="不规则区域" imagePath=".\config\toolbox\菜单图标\通用工具\画多边形.png" command="DrawPolygonCmd"></button>
+  </toolbar>
+  <toolbar id="" name="雷达回波查看">
+    <button id="" caption="雷达回波动画" imagePath=".\config\toolbox\动画图标\播放动画.png" command="RadarAnimatioCmd"></button>
+  </toolbar>
+   <toolbar id="" name="作业单元">
+	<button id="" caption="风暴轮廓识别" imagePath=".\config\toolbox\菜单图标\飞行航线\绕云.png" command="AutoDrawJobUnitCmd"></button>
+	<button id="" caption="添加作业单元" imagePath=".\config\toolbox\菜单图标\地图工具\添加区域.png" command="DrawJobUnitCmd"></button>
+	<button id="" caption="删除作业单元" imagePath=".\config\toolbox\菜单图标\地图工具\删除区域.png" command="DeleteJobUnitCmd"></button>
+  </toolbar>
+  <toolbar id="" name="作业影响区域">
+    <button id="" caption="计算影响区" imagePath=".\config\toolbox\菜单图标\编辑工具\编辑.png" command="AutoDrawJobAreaCmd"></button>
+    <button id="" caption="新绘影响区" imagePath=".\config\toolbox\菜单图标\地图工具\新绘区域.png" command="DrawJobAreaCmd"></button>
+	<button id="" caption="移动影响区" imagePath=".\config\toolbox\菜单图标\编辑工具\恢复.png" command="MoveJobAreaCmd"></button>
+	<button id="" caption="添加影响区" imagePath=".\config\toolbox\菜单图标\地图工具\添加区域.png" command="AddJobAreaCmd"></button>
+	<button id="" caption="删除影响区" imagePath=".\config\toolbox\菜单图标\地图工具\删除区域.png" command="DeleteJobAreaCmd"></button>
+  </toolbar>
+   <toolbar id="" name="对比单元">
+	<button id="" caption="添加对比单元" imagePath=".\config\toolbox\菜单图标\地图工具\添加区域.png" command="DrawContrastUnitCmd"></button>
+	<button id="" caption="删除对比单元" imagePath=".\config\toolbox\菜单图标\地图工具\删除区域.png" command="DeleteContrastUnitCmd"></button>
+  </toolbar>
+  <toolbar id="" name="作业对比区域">
+    <button id="" caption="新绘对比区" imagePath=".\config\toolbox\菜单图标\地图工具\新绘区域.png" command="DrawContrastAreaCmd"></button>
+	<button id="" caption="复制影响区" imagePath=".\config\toolbox\菜单图标\编辑工具\保存.png" command="CopyContrastAreaCmd"></button>
+	<button id="" caption="移动对比区" imagePath=".\config\toolbox\菜单图标\编辑工具\恢复.png" command="MoveContrastTrackCmd"></button>
+	<button id="" caption="添加对比区" imagePath=".\config\toolbox\菜单图标\地图工具\添加区域.png" command="AddContrastAreaCmd"></button>
+	<button id="" caption="删除对比区" imagePath=".\config\toolbox\菜单图标\地图工具\删除区域.png" command="DeleteContrastAreaCmd"></button>
+	<button id="" caption="物理检验物理量分析" imagePath=".\config\toolbox\菜单图标\飞行航线\绕云.png" command="PhysicsExamineChartCmd"></button>
+	<button id="" caption="统计检验相关性分析" imagePath=".\config\toolbox\l005.png" command="RelevanceAnalyseCmd"></button>
+  </toolbar>
+  <toolbar id="" name="作业信息查看">
+    <button id="" caption="飞行航迹回放" imagePath=".\config\toolbox\菜单图标\飞行航线\飞机.png" command="AirPlaneSelectorCmd"></button>
+	<!-- <button id="" caption="飞机作业信息查看" imagePath=".\config\toolbox\菜单图标\飞行航线\手动绘制飞行航线.png" command="AddContrastAreaCmd"></button> -->
+	<button id="" caption="地面作业信息查看" imagePath=".\config\toolbox\菜单图标\产品制作工具\地面作业方案制作.png" command="SelectJobPointCmd"></button>
+  </toolbar>
+</toolbars>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menuItems menuItems="菜单栏" name="menubar">
+  <menuItem id="1" name="filemenubar" caption="文件(F)">
+    <button id="" name="openmenu" imagePath="" caption="打开(O)" command="MenuOpenCmd"></button>
+	<button id="" name="savemenu" imagePath="" caption="另存为(A)" command="MenuSaveCmd"></button>
+	<button id="" name="closemenu" imagePath="" caption="关闭" command="MenuCloseCmd"></button>
+	<button id="" name="renamemenu" imagePath="" caption="重命名" command="MenuRenameCmd"></button>
+	<button id="" name="exitmenu" imagePath="" caption="退出(X)" command="MenuExitCmd"></button>
+	</menuItem>
+  <menuItem id="2" name="editmenubar" caption="编辑(E)">
+	<button id="" name="maxmenu" imagePath="" caption="最大值" command="RainDynamicAnalysisCmd"></button>
+	<button id="" name="minmenu" imagePath="" caption="最小值" command="RadarAnalysisCmd"></button>
+	<button id="" name="avgmenu" imagePath="" caption="平均值" command="SateDynamicAnalysisCmd"></button>
+	<button id="" name="comparmenu" imagePath="" caption="比较" command="YdpDynamicAnalysisCmd"></button>
+  </menuItem>
+  <menuItem id="3" name="toolmenubar" caption="工具(O)">
+    <button id="" name="convertmenu" imagePath="" caption="格式转换" command="MenuConvertCmd"></button>
+  </menuItem>
+  <menuItem id="4" name="setmenubar" caption="设置(T)">
+    <button id="" name="amenu" imagePath="" caption="分析工具箱" command="AnalystPanelCmd"></button>
+    <button id="" name="bmenu" imagePath="" caption="地理信息" command="MapInfoPanelCmd"></button>
+    <button id="" name="cmenu" imagePath="" caption="数据检索" command="DataListPanelCmd"></button>
+    <button id="" name="dmenu" imagePath="" caption="图层属性" command="LayerPropertyPanelCmd"></button> 
+  </menuItem>
+  <menuItem id="5" name="helpmenubar" caption="帮助(H)">
+    <button id="" name="helpmenu" imagePath="" caption="使用说明" command="MenuHelpCmd"></button>
+  </menuItem>
+</menuItems>

@@ -1,0 +1,3 @@
+[console_scripts]
+mrc = hdf:open
+

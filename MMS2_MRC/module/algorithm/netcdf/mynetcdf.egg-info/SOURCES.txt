@@ -1,0 +1,8 @@
+netcdf.py
+setup.py
+mynetcdf.egg-info/PKG-INFO
+mynetcdf.egg-info/SOURCES.txt
+mynetcdf.egg-info/dependency_links.txt
+mynetcdf.egg-info/entry_points.txt
+mynetcdf.egg-info/requires.txt
+mynetcdf.egg-info/top_level.txt
